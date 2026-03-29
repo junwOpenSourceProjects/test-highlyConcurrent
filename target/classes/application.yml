@@ -4,3 +4,4 @@ server:
       idle-timeout: 30s #最大空闲时间
       max: 200 #最大线程数
       min: 8 #最小线程数
+  port: 8292 #服务端口
